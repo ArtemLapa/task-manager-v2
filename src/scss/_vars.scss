@@ -1,0 +1,24 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+$main-font: 'Josefin Sans', sans-serif;
+$main-size: 18px;
+
+/* Colors */
+$primary-blue: #3a7bfd;
+$primary-background: linear-gradient #57ddff to #c058f3;
+
+// For Light Theme
+$very-light-gray: #fafafa;
+$very-light-grayish-blue: #e4e5f1;
+$light-grayish-blue: #d2d3db;
+$dark-grayish-blue: #9394a5;
+$very-dark-grayish-blue: #484b6a;
+
+// For Dark Theme
+$very-dark-blue: #161722;
+$very-dark-desaturated-blue: #25273c;
+$light-grayish-blue: #cacde8;
+$light-grayish-blue-hover: #e4e5f1;
+$dark-grayish-blue: #777a92;
+//$very-dark-grayish-blue: #4d5066;
+$very-dark-grayish-blue: #393A4CFF;
